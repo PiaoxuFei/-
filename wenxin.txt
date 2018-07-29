@@ -4,3 +4,4 @@
   "appPackage": "com.tencent.mm",
   "appActivity": ".ui.LauncherUI"
 }
+add new
