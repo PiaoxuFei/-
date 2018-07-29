@@ -9,3 +9,5 @@ add new
 *****
 child
 master
+new child
+new master
