@@ -5,3 +5,4 @@
   "appActivity": ".ui.LauncherUI"
 }
 add new
+1234556
