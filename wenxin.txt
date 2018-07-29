@@ -1,0 +1,6 @@
+{
+  "platformName": "Android",
+  "deviceName": "Redmi_Note_4",
+  "appPackage": "com.tencent.mm",
+  "appActivity": ".ui.LauncherUI"
+}
